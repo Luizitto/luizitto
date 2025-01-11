@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">de uma olhada aqui:</p>
+<p align="left">Vamos conversar?:</p>
 
 ###
 
