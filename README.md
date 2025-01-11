@@ -6,7 +6,8 @@
 <h4 align="left">- Acredito ser capaz de quebrar barreiras que tentam me limitar, estou disposto e tenho me esforçado para ter um futuro, acredito que tudo é possivel quando nos estamos dispostos a buscar oque queremos, a vida é como uma prova escolar, existe uma nota maxima, e se existe esse resultado, mesmo que seja dificil nao é impossivel obte-lo.</h4>
 
 ###
-
+<br>
+<p> Aluno DevClub </p>
 <p align="left">Hoje atualmente já uso:</p>
 
 ###
